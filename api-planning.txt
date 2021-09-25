@@ -1,0 +1,8 @@
+Standar API
+
+{root.api}/v1
+SAMPLE:
+
+Authentication
+
+[1] - Login
